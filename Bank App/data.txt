@@ -1,0 +1,1 @@
+{'firstname': 'fghjkg', 'lastname': 'ukgkgjkh', 'ID_code': '0212121212', 'phone_number': '46464646464', 'postal_code': '45454454545454', 'address': 'kkkkk', 'year': '1999', 'choose_month': 'April', 'birthday': '15', 'password': ';kio;hligilguihik', 'email': ''}
